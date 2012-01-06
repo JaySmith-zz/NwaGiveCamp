@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GiveCampStarterSite">
+</Property><Property Name="Solution File" Value="D:\Work\Subversion\NwaGiveCamp\GiveCampStarterSite.sln">
+</Property><Property Name="Date" Value="Saturday, June 19, 2010">
+</Property><Property Name="Time" Value="10:08 AM">
+</Property></Properties><Event ErrorLevel="0" Project="GiveCampWeb" Source="GiveCampWeb\GiveCampWeb.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GiveCampWeb" Source="GiveCampWeb\GiveCampWeb.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GiveCampStarterSite.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GiveCampStarterSite.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GiveCampWeb" Source="GiveCampWeb\GiveCampWeb.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
